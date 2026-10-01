@@ -1,2 +1,1 @@
-# pso6-team
-CS193 project 6
+This repository is for project 6 of CS193.
